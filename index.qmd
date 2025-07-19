@@ -1,5 +1,5 @@
 ---
-title: "Yujun Lian"
+title: "Le Wang"
 image: images/lianyujun_2025.png
 about:
   id: hero-heading
